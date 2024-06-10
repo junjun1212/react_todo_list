@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react_todo_list/static/js/main.5b25fa2e.js",
+    "index.html": "/react_todo_list/index.html",
+    "main.5b25fa2e.js.map": "/react_todo_list/static/js/main.5b25fa2e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5b25fa2e.js"
+  ]
+}
